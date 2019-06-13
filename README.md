@@ -5,3 +5,5 @@ Esse repositório é dedicado a redes neurais e contém os seguintes projetos de
 1- Perceptron
 
 2 - Adaline
+
+3 - Rede neural
